@@ -1,5 +1,5 @@
 # 📝 ToDo List in Python using JSON
-
+"This is a backend-focused project for handling to-dos using JSON. No frontend is currently implemented."
 A simple command-line based ToDo List application built with **Python**. This app allows users to create, view, update, and delete tasks. All data is stored locally using **JSON**.
 
 ## 🚀 Features
